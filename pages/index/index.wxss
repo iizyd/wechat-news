@@ -1,0 +1,68 @@
+.head {
+  margin-top: 6rpx;
+  margin-bottom: 6rpx;
+  margin-left: 10rpx;
+  width: 100%;
+  height: 60rpx;
+  border-bottom: 3rpx solid;
+}
+
+.audio_box {
+  width: 720rpx;
+  text-align: center;
+}
+
+.audio {
+  width: 700rpx;
+  margin-left: 25rpx;
+}
+
+.button_box {
+  width: 100%;
+  padding-left: 80rpx;
+}
+
+.button {
+  width: 200rpx;
+  height: 70rpx;
+  float: left;
+  margin-right: 15rpx;
+  line-height: 70rpx;
+}
+
+.button text {
+  font-weight: normal;
+  font-size: 30rpx;
+
+}
+
+.head text {
+  font-weight: bold;
+}
+
+.navigator {
+  color: #3a3636;
+}
+
+.navigator-hover {
+  color: #adadad;
+}
+
+.news-item {
+  width: 650rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  padding-left: 50rpx;
+  overflow: hidden;
+  border-bottom: 1rpx;
+}
+
+.class_list1 {
+  height: 100%;
+  width: 100%;
+}
+
+.swiper_view {
+  width: 750rpx;
+  height: 420rpx;
+}

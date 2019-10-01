@@ -1,0 +1,24 @@
+/* pages/indexDetails/index'Details.wxss */
+.head{
+  display:flex;
+  flex-direction:row;
+  margin:10px;
+  font-size:13px;
+  color: #999999;
+}
+
+.biaoti {
+  text-align: center;
+  margin-top: 20rpx;
+}
+
+.biaoti rich-text {
+  font-weight: bold;
+}
+
+.wenzhang {
+  width:750rpx;
+  padding:10rpx;
+  text-align: center;
+
+}

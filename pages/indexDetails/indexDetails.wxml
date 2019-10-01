@@ -1,0 +1,13 @@
+
+<view class='biaoti'>
+  <rich-text nodes='{{aptime2}}'></rich-text>
+</view>
+
+<view class='head'> 
+  <rich-text nodes='{{aptime3}}'></rich-text>
+  <rich-text nodes='{{aptime4}}'></rich-text>
+</view>
+
+<view class='wenzhang'>
+  <rich-text nodes="{{aptime}}" ></rich-text>
+</view>

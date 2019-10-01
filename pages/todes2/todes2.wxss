@@ -1,0 +1,19 @@
+/* pages/todes2/todes2.wxss */
+.geshi {}
+
+.geshi image {
+    width: 750rpx;
+    height: 500rpx;
+    display: inline-block;
+}
+
+.neirong {
+    width: 670rpx;
+    margin-top: 2rpx;
+    margin-left: 40rpx;
+    padding-bottom: 2rpx;
+}
+
+.neirong text {
+    font-size: 32rpx;
+}

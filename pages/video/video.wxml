@@ -1,0 +1,270 @@
+
+
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>铿锵有力的中国声音！</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/maoYiZhan.mp4'></video>
+  </view>
+
+  <view class='sta'>评论371·转发55</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+
+
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>2019年环境营销报告</view>
+  </view>
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/%E8%90%A5%E9%94%80%E7%8E%AF%E5%A2%83%E6%8A%A5%E5%91%8A.mp4'></video>
+  </view>
+
+  <view class='sta'>评论434·转发12</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>“一网、一门、一次”是什么？给咱老百姓带来啥便利？</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/%E4%B8%80%E7%BD%91%E3%80%81%E4%B8%80%E9%97%A8%E3%80%81%E4%B8%80%E6%AC%A1.mp4'></video>
+  </view>
+
+  <view class='sta'>评论364·转发20</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>保护环境绿色焚烧垃圾</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB.mp4'></video>
+  </view>
+
+  <view class='sta'>评论34·转发5</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>2018年两岸农业贸易额增至37.7亿美元</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/201904161900_13.mp4
+></video>
+  </view>
+
+  <view class='sta'>评论44·转发9</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>一二三线城市3月房价同比涨幅微升</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/201904161900_14.mp4'></video>
+  </view>
+
+  <view class='sta'>评论97·转发32</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>韩正访查陕西</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/201904161900_6.mp4'></video>
+  </view>
+
+  <view class='sta'>评论74·转发13</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>政府工作报告之减税</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/%E5%87%8F%E7%A8%8E.mp4'></video>
+  </view>
+
+  <view class='sta'>评论54·转发8</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>俄称与北约军民领域合作已停止</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/201904161900_16.mp4'></video>
+  </view>
+
+  <view class='sta'>评论25·转发9</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>政府工作报告之2019年营商环境报告</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/%E8%90%A5%E9%94%80%E7%8E%AF%E5%A2%83%E6%8A%A5%E5%91%8A.mp4'></video>
+  </view>
+
+  <view class='sta'>评论66·转发2</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>
+<view class='line'></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='/image/甜甜圈.png' style='width:45px;height:45px;'></image>
+    </view>
+    <view class='title'>韩正访查陕西林业发展</view>
+  </view>
+
+
+  <view class='section'>
+    <video style='width:320px' id='myVideo' src='http://video.xsdsszz.com/201904161900_5.mp4'></video>
+  </view>
+
+  <view class='sta'>评论94·转发7</view>
+  <view class='icon'>
+    <view>
+      <image src='/image/message.png' style='width:23px;height:23px;'></image>
+    </view>
+    <view>
+      <image src='/image/deployment unit.png' style='width:23px;height:23px;'></image>
+    </view>
+  </view>
+</view>

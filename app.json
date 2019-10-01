@@ -1,0 +1,78 @@
+{
+  "pages": [
+    
+    "pages/xinwen/xinwen",
+    "pages/index/index",
+    
+    "pages/recommendation/recommendation",
+    
+    "pages/video/video",
+    "pages/todes/todos",
+    "pages/newsItem/newsItem",
+    "pages/details/details",
+    "pages/indexDetails/indexDetails",
+    "pages/indexDetails2/indexDetails2",
+    "pages/indexDetails3/indexDetails3",
+    "pages/news1/news1",
+    "pages/news2/news2",
+    "pages/todes1/todes1",
+    "pages/news3/news3",
+    "pages/todes2/todes2",
+    "pages/todes3/todes3",
+    "pages/todes4/todes4",
+    "pages/yinpin/yinpin"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#FF3030",
+    "navigationBarTitleText": "掌上知事",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#808080",
+    "selectedColor": "#DC143C",
+    "list": [
+      {
+        "pagePath": "pages/xinwen/xinwen",
+        "text": "看新闻",
+        "iconPath": "image/news.png",
+        "selectedIconPath": "image/news_selected.png"
+      },
+      {
+        "pagePath": "pages/recommendation/recommendation",
+        "text": "关注",
+        "iconPath": "image/favor.png",
+        "selectedIconPath": "image/favor_selected.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "听新闻",
+        "iconPath": "image/sound.png",
+        "selectedIconPath": "image/sound1.png"
+      },
+      {
+        "pagePath": "pages/todes/todos",
+        "text": "图解图表",
+        "iconPath": "image/collection.png",
+        "selectedIconPath": "image/collection_selected.png"
+      },
+      {
+        "pagePath": "pages/video/video",
+        "text": "视频",
+        "iconPath": "image/video.png",
+        "selectedIconPath": "image/video_selected.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 60000,
+    "downloadFile": 60000
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+  
+
+
+  
+}

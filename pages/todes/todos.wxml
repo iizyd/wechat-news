@@ -1,0 +1,32 @@
+<view>
+  <swiper indicator-dots='{{false}}' class='swiper_view' autoplay="{{true}}" interval="2000">
+    <swiper-item wx:for="{{list_info}}">
+      <image class='class_list1' src='{{item.imagePath}}'></image>
+    </swiper-item>
+  </swiper>
+</view>
+<view class='head'>漫画</view>
+<view class='title_box'>
+  <view class='title_box1'>
+    <navigator url='/pages/todes1/todes1'>漫画：统一</navigator>
+  </view>
+  <view class='title_box1'>
+    <navigator url='/pages/todes2/todes2'>漫画：描绘新画卷</navigator>
+  </view>
+  <view class='title_box1'>
+    <navigator url='/pages/todes3/todes3'>漫画：推进</navigator>
+  </view>
+</view>
+<view class='head'>图解政策</view>
+<block wx:for="{{zhengce}}">
+  <navigator url="/pages/indexDetails3/indexDetails3?id={{item.id}}">
+    <view class="news-item">
+      <view class="news-item-left">
+        <text class="news-item-title">{{item.aTitle}}</text>
+      </view>
+      <view class="news-item-right">
+        <image src="{{item.aDimage}}" class="news-image" />
+      </view>
+    </view>
+  </navigator>
+</block>

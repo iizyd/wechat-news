@@ -1,0 +1,34 @@
+<view>
+  <swiper indicator-dots='{{false}}' class='swiper_view' autoplay="{{true}}" interval="2000">
+    <swiper-item wx:for="{{list_info}}">
+      <image class='class_list1' src='{{item.imagePath}}'></image>
+    </swiper-item>
+  </swiper>
+</view>
+<view class='head'>
+  <text>音频</text>
+</view>
+<view class="audio_box">
+  <audio class="audio" name="{{zhihu[idtag].aTitle}}" author="{{zhihu[idtag].aSource}}" src="{{zhihu[idtag].mp3}}" id="myAudio" controls></audio>
+  <view class="button_box">
+    <button class="button" type="primary" bindtap="audioPlay">
+      <text>播放</text>
+    </button>
+    <button class="button" type="primary" bindtap="audioPause">
+      <text>暂停</text>
+    </button>
+    <button class="button" type="primary" bindtap="audioStart">
+      <text>回到开头</text>
+    </button>
+  </view>
+</view>
+
+<block wx:for="{{zhihu}}" wx:for-index='key'>
+  <!-- <navigator url="/pages/indexDetails/indexDetails"> -->
+  
+    <view class="news-item" bindtap="play" id="{{key}}">
+      <text>♬ {{item.aTitle}}</text>
+    </view>
+  
+  <!-- </navigator> -->
+</block>
